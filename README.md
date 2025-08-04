@@ -18,6 +18,7 @@ This project explores autonomous navigation using the **ROSbot 2R**, implementin
 
 ## Implementation 🔧
 The project was implemented in **simulation** using **Gazebo** and **RViz**, followed by real-world deployment on the **ROSbot 2R**.
+
 <img width="682" height="474" alt="image" src="https://github.com/user-attachments/assets/333c654e-4e4e-447f-968d-394935dc3b88" />
 
 
