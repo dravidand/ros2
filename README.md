@@ -14,9 +14,13 @@ This project explores autonomous navigation using the **ROSbot 2R**, implementin
 - The robot directly moves toward a **single target coordinate** while actively avoiding obstacles.
 - Suitable for **dynamic environments** where predefining waypoints is impractical.
 - Provides a more adaptive response to unexpected obstacles and changes in surroundings.
+<img width="957" height="724" alt="image" src="https://github.com/user-attachments/assets/474ff8b3-089b-406a-b5fc-f854931771c2" />
 
 ## Implementation 🔧
 The project was implemented in **simulation** using **Gazebo** and **RViz**, followed by real-world deployment on the **ROSbot 2R**.
+
+<img width="682" height="474" alt="image" src="https://github.com/user-attachments/assets/333c654e-4e4e-447f-968d-394935dc3b88" />
+
 
 ### 🔍 **Sensor Suite**
 To achieve robust navigation, the robot utilized:
@@ -30,11 +34,15 @@ To achieve robust navigation, the robot utilized:
 - Both algorithms were successfully tested in **Gazebo**.
 - The robot consistently **reached the goal without collisions**, efficiently selecting routes based on sensor data.
 - **Waypoint-based navigation** proved effective in structured layouts, while **single-coordinate navigation** adapted better to dynamic environments.
+<img width="1344" height="756" alt="image" src="https://github.com/user-attachments/assets/18ad9b98-db87-46e2-af80-80401ed06976" />
+
 
 ### 📹 **Real-World Testing**
 - The system was successfully transferred to a physical **ROSbot 2R**.
 - Real-world performance aligned closely with simulation, demonstrating **robust obstacle avoidance and smooth navigation**.
 - The results validated the **sensor fusion and path-planning** techniques implemented.
+<img width="569" height="591" alt="image" src="https://github.com/user-attachments/assets/34f4f2ee-ed40-439f-be47-cb6d779f727c" />
+
 
 ## Key Takeaways 🎓
 - **Multi-waypoint navigation** is better for predefined paths, while **single-coordinate navigation** offers adaptability.

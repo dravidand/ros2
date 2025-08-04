@@ -4,7 +4,7 @@
   <name>rosbot2r</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="myplanetmarsofficial@gmail.com">cupcake</maintainer>
+  <maintainer email="your_email_here">user_name</maintainer>
   <license>Apache-2.0</license>
 
   <test_depend>ament_copyright</test_depend>
